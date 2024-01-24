@@ -1,0 +1,12 @@
+C:\Users\pp97975\source\repos\TESTING\TESTING\bin\Debug\TESTING.exe.config
+C:\Users\pp97975\source\repos\TESTING\TESTING\bin\Debug\TESTING.exe
+C:\Users\pp97975\source\repos\TESTING\TESTING\bin\Debug\TESTING.pdb
+C:\Users\pp97975\source\repos\TESTING\TESTING\bin\Debug\TESTING.xml
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.vbprojAssemblyReference.cache
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.Form1.resources
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.Resources.resources
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.vbproj.GenerateResource.cache
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.vbproj.CoreCompileInputs.cache
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.exe
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.xml
+C:\Users\pp97975\source\repos\TESTING\TESTING\obj\Debug\TESTING.pdb
